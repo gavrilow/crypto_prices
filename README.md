@@ -3,7 +3,7 @@
 Application for cryptocurrency price tracking.
 Python based software used Yahoo Finance API.
 
-From Yahoo Finance download Date Dimensions table 2020-1-1 ... 
+From Yahoo Finance download Date Dimensions table 2020-1-1 ... 2020-31-12
 
 Components used:
 - PyCharm
