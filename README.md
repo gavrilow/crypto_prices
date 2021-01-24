@@ -1,3 +1,5 @@
+https://github.com/gavrilow/crypto_prices
+
 # Crypto Prices
 
 Application for cryptocurrency price tracking.
