@@ -1,4 +1,4 @@
-# crypto_prices
+# Crypto Prices
 
 Application for cryptocurrency price tracking.
 Python based software used Yahoo Finance API.
